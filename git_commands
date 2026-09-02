@@ -1,0 +1,34 @@
+    1  git init
+    2  git add
+    3  clear
+    4  python testing.py
+    5  ls 
+    6  ls -l
+    7  rm testing.py
+    8  clear
+    9  git init
+   10  ls
+   11  ls -l
+   12  dir
+   13  clear
+   14  git status
+   15  git status
+   16  git add testing.py
+   17  git status
+   18  get rm --cached testing.py
+   19  git rm --cached testing.py
+   20  git status
+   21  git add .
+   22  git status
+   23  clear
+   24  git status
+   25  git commit -m "new testing file added"
+   26  git status
+   27  rm testing.py
+   28  ls
+   29  clear
+   30  git status
+   31  git restore testing.py
+   32  git status
+   33  clear
+   34  history
